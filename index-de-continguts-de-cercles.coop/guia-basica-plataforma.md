@@ -230,6 +230,38 @@ En alguns casos (com la realització de les Assemblees o altres reunions societ�
 
 
 
+## Els missatges d’ajuda
+
+Finalment, a l’apartat de **Configuració**, hi ha un últim element per personalitzar: Les **seccions d’ajuda**. Les seccions d’ajuda conté les caixes de text amb la informació contextual que apareix mentre naveguem per la plataforma, com a usuàries, i expliquen què son cada un dels espais de participació que anem habilitant.
+
+Cal revisar les descripcions proposades i adapta-les a la realitat de participació de la cooperativa.
+
+
+![](../.gitbook/assets/img8a.png)
+
+
+
+![](../.gitbook/assets/img8b.png)
+
+
+
+![](../.gitbook/assets/img8c.png)
+
+
+
+
+## Participants
+
+El mòdul **Participants** del menú principal de l’àrea d’administració permet consultar les persones que estan donades d’alta a la Plataforma i que, per tant, tenen accés, com a usuàries, a tots els espais de participació que tenim actius a l’àrea pública.
+L’adaptació Cercles.Coop, a diferència del Decidim, no permet que les persones s’enregistrin automàticament a la instància del Cercles.Coop. Aquesta opció de registrar usuàries sempre serà una acció dirigida per la cooperativa. 
+A través d’aquest mòdul podem gestionar les accions següents:
+
+*	**Administradores:** apartat a través del qual incorporar noves administradores de la instància pròpia de Cercles.Coop. Tenir permisos d’administrador permet configurar la instància, però no atorga automàticament capacitat per participar com a usuari en els diferents processos participatius.
+*	**Participants:** apartat on consultar les sòcies i no sòcies que tenen accés com a usuàries de la plataforma.
+*	**Impersonacions**
+*	**Verificacions**
+*	**Verificació directa:** apartat a través del qual incorporem les sòcies que volem donar d’alta com a usuàries de la plataforma. A través d’aquest apartat és on també autoritzem les sòcies amb dret a vot a les reunions societàries que requereixin vot electrònic. Vegeu com fer-ho [aquí](https://guia.cercles.coop/index-de-continguts-de-cercles.coop/posada-en-marxa#importacio-del-cens-virtual-de-socis).
+•	**Delegacions:** apartat a través del qual programem la delegació de vot en aquelles reunions societàries que requereixin vot electrònic. Vegeu com fer-ho [aquí](https://guia.cercles.coop/index-de-continguts-de-cercles.coop/posada-en-marxa#delegacions-de-vots).
 
 
 
