@@ -18,7 +18,6 @@ Els Processos Participatius poden tenir diferents Components. Cada fase tindrà 
 | ------------- |
 | ***El Consell Rector  vol elaborar el Pla de Gestió Anual que s’ha de debatre i aprovar entre totes les persones membres. Aquest procés de debat tindrà diferents fases.*** |
 | Es crea un “Nou Procés Participatiu” anomenat Pla de Gestió 2021. En crear-lo es configuren les cinc fases que l’integren. Es poden crear els diferents Components que caldrà activar durant el Procés Participatiu. Un cop creats els Components es poden publicar o mantenir creats però només visibles per les persones administradores des del taulell d’administració.
-
 * **Fase 1 (Elaboració del text):** El Consell Rector vol que les sòcies aportin idees sobre quins son els eixos de treball que hauria d’incloure el Pla. S’habilita un Component de “Debats” on tothom pot fer aportacions que el CR tindrà en compte a l’hora d’elaborar el text.
 
 * **Fase 2 (Debat i esmenes):** Es publica el text del Pla de Gestió elaborat pel Consell Rector a través del Component “Propostes” amb “Textos Participatius” . D’aquesta manera queda el text publicat segmentat per articles i s’habiliten comentaris i esmenes al text que poden fer totes les membres (poden ser perfils personals o de col·lectius).
