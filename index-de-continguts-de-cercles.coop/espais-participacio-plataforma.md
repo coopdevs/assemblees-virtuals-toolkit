@@ -54,10 +54,15 @@ El comitè de participació vol fer una sèrie de reunions informatives per tot 
 
 
 
+
+
 | **Exemple pràctic 2: Espais privats de treball intern per les Comissions** |
 | ------------- |
 | **Les Comissions o sectorials volen tenir un espai intern de treball, on poder compartir documents, elaborar textos col·lectivament, tenir debats i comunicar-se.** |
 |Caldria crear noves Assemblees o bé configurar les Assemblees ja creades en l’exemple anterior. En la configuració general caldria que es marquessin com a “Privades” per restingir l’accés a les sòcies que formen part de les comissions, o bé com a “Privades transparents” si es vol que les persones que no tingui els “Permisos” puguin veure els continguts que es pengen però no puguin editar. Les “Participants Privades” d’una Assemblea privada es poden pujar manualment des del taulell d’administració.|
+
+
+
 
 
 
@@ -69,6 +74,15 @@ El comitè de participació vol fer una sèrie de reunions informatives per tot 
 Debat dels documents: Hi ha diferents opcions segons quin sigui el procediment de debat i aprovació que estableixi la cooperativa, això és tan sols un exemple de com fer-ho: Es publica el text que proposa el Consell Rector a través del Component “Propostes” amb “Textos Participatius” . D’aquesta manera queda el text publicat segmentat per articles i s’habiliten comentaris i esmenes al text que poden fer totes les sòcies (poden ser perfils personals o de col·lectius). Al Cercles.Coop queden recollides totes les esmenes, i després presencialment es discuteixen i voten a l’AGO.
 Candidatures de Consell Rector: S’habilita un Component de “ Propostes ” amb el nom de Candidatures CR en el que es permet que cada sòcia pugui pujar una proposta de candidatura, segons regulin els estatuts socials i, si escau, el reglament electoral. S’estableix un període de temps límit per presentar-se i un cop recollides totes les candidatures es podria votar a través del Cercles.Coop (mòdul Consultes de vot electrònic durant la celebració de l’AGO).
 Informació i control d’assistència: Mitjançant un Component de “Trobades” es pot crear una pestanya dins de l’Assemblea on aparegui la data, la hora, el lloc (amb un localització marcada en un mapa). Tanmateix es poden adjuntar arxius i crear un ordre del dia. Existeix també la possibilitat d’habilitar “Inscripcions” que permet controlar quantes persones confirmen assistència.|
+
+
+
+## CONSULTES
+
+El mòdul Consultes és el mecanisme que ens ofereix Cercles.Coop per vehicular les votacions electròniques a preguntes concretes. És a partir d’on organitzem les votacions a les d’Assemblees Generals o altres reunions societàries i on recollim els vots electrònics amb les garanties necessàries. 
+
+Consulta [aquí](https://guia.cercles.coop/index-de-continguts-de-cercles.coop/posada-en-marxa) la guia específica on es detalla com configurar una reunió societària virtual que requereixi emissió de vot electrònic. 
+
 
 
 
