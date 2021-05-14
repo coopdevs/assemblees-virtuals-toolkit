@@ -144,3 +144,92 @@ Si la vostra instància de Cercles.Coop té més d’un **idioma** activat, cal 
 {% endhint %}
 
 
+
+Cal revisar les pàgines creades per defecte, es poden eliminar les que no siguin necessàries i modificar el contingut de les que puguin fer servei a la cooperativa.
+
+Per visualitzar com es mostra la informació a l’àrea pública es pot fer de dues maneres, bé clicant sobre la icona en forma d’ull, bé a través del menú de navegació corresponent de l’àrea d’usuari. Per tornar al mode edició es pot fer clicant sobre la icona de llapis de l’àrea d’administració o bé clicant el botó **Edita** del menú de navegació d’usuari.
+
+D’altra banda, les **pàgines d’ajuda general** tenen per finalitat explicar als socis quina funció té cada espai participatiu que generem (processos, assemblea, consulta). Vegeu exemples i la diferència entre **pàgines d’ajuda general i pàgines sense tema** a la imatge següent:
+
+
+
+![](../.gitbook/assets/img3bis.png)
+
+
+## Configuració
+
+L’apartat **Configuració** de la instància també es troba al menú lateral del teu taulell d’administració, al clicar-la es desplega un submenú amb més opcions de configuració.
+
+
+![](../.gitbook/assets/img4.png)
+
+
+La primera secció permet configurar els conceptes bàsics de la instal·lació:
+* El nom que li volem posar a la plataforma de participació,
+* les xarxes socials del nostre projecte,
+* l’idioma per defecte
+
+o algunes personalitzacions com:
+* **Habilitar ensenyes:** Les ensenyes són una millora d’usabilitat de la plataforma, fomenta la participació de les sòcies a partir d’assolir petits reptes.
+* **Habilitar grups:** Permetre que diferents socis individuals creïn grups d’usuaris i publiquin a la plataforma a nom d’un col·lectiu. Aquesta opció està pensada per reconèixer la participació col·lectiva dins la plataforma. En l’àmbit de les cooperatives i les Federacions de cooperatives podrien ser col·lectius organitzats dins un grup d’usuaris: les comissions de treball, divisions d’activitat, sectorials, branques de producció...
+* **Notificació de benvinguda:** Permet personalitzar el text del correu electrònic automàtic de benvinguda que s’envia a les persones que donem d’alta a la plataforma a través del [cens virtual de socis](https://guia.cercles.coop/index-de-continguts-de-cercles.coop/posada-en-marxa#importacio-del-cens-virtual-de-socis).
+
+Per fer efectiu qualsevol canvi en aquesta pàgina de **Configuració**, cal clicar el botó **Actualitzar**.
+ 
+ 
+## Aparença i pàgina d’inici
+
+Dins del mateix mòdul i apartat de Configuració, trobem dos apartats molt relacionats entre ells, són: Aparença i Pàgina d’inici.
+
+A **Aparença** trobarem diferents elements que podem configurar per personalitzar la interfície del nostre Cercles.Coop. Alguns d’aquests elements fan referència al contingut de portada, com la descripció, el botó d’acció principal de portada o el bàner de contingut ressaltat. A l’apartat Aparença, doncs, podem definir el contingut d’aquests elements. 
+
+
+![](../.gitbook/assets/img5.png)
+
+
+Més enllà d’aquests elements de portada, a la secció d’Aparença podem configurar elements que són transversals a tota la plataforma, com:
+* El bàner omnipresent: Ens permet configurar una barra destacada a la part superior dreta de tota la plataforma. Serveix per destacar elements importants.
+* L’aparença global: Com els logotips que es fan servir en diferents seccions de la pàgina o els colors de l’organització.
+* També hi ha un apartat específic per afegir codi a la capçalera. Serà d’utilitat si es vol afegir codi de seguiment i analítica del tràfic web, o afegir codi css per personalitzar encara més la plataforma.
+
+A l’apartat de **Pàgina d’inici** és on podrem reordenar i personalitzar la primera pàgina que veuran les sòcies que visitin, com a usuàries, la plataforma. Aquí el contingut està representat en diferents caixes distribuïdes entre el bloc de continguts actius i el bloc de contingut inactiu.
+
+
+
+![](../.gitbook/assets/img6.gif)
+
+
+Algunes d’aquestes caixes es poden editar, com per exemple la **imatge del hero**, és a dir, la imatge principal de portada, sobre la qual apareixerà el botó d’acció si l’hem configurat abans.
+
+
+
+![](../.gitbook/assets/img7.gif)
+
+
+Movent les caixes, amunt i avall, es reordena el contingut de la portada i, per tant, els canvis es visualitzaran de manera instantània.
+
+
+{% hint style="warning" %}
+Cal no canviar el contingut de la caixa Bloc HTML, ja que conté configuració predeterminada de Cercles.Coop.
+{% endhint %}
+
+
+## Àmbits i àrees
+
+Els [àmbits i les àrees](https://guia.cercles.coop/index-de-continguts-de-cercles.coop/posada-en-marxa#ambits) són dos mecanismes que permeten classificar els espais de participació.
+
+Podem definir els àmbits segons la seva tipologia. Per defecte, a Cercles.Coop  es proposa fer servir l’àmbit reunions societàries per classificar totes les reunions societàries que requereixen vot electrònic, però es poden crear tants àmbits com ens siguin necessari.
+
+Per a les cooperatives amb diverses divisions d’activitat o diversificació territorial, serà útil fer servir aquesta classificació, per diferenciar àmbits organitzatius i àmbits territorials.
+
+També es pot organitzar per Àrees. Aquesta opció permet mostrar l’organització temàtica de la cooperativa. La configuració i classificació per àrees no és obligatòria, serà útil per a cooperatives amb diverses divisions d’activitat o amb gran diversitat organitzativa a nivell intern. Per defecte, a Cercles.Coop es proposa l’àrea d’Assemblea general per agrupar les assemblees que es van desenvolupant.
+
+{% hint style="info" %}
+En alguns casos (com la realització de les Assemblees o altres reunions societàries a través de les Consultes, que requereixen vot electrònic) és obligatori definir un tipus d’àmbit i d’àrea.
+{% endhint %}
+
+
+
+
+
+
