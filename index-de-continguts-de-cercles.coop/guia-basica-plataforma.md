@@ -43,3 +43,53 @@ La plataforma Cercles.Coop compta amb dues àrees diferenciades: l’àrea publi
 Tanmateix, navegant per l’àrea pública no es veuen aquests espais actius, ja que no es visualitzaran fins que no es creï contingut en cada un d’ells. Inicialment, però, el que es veurà és el contingut estàndard de portada i les pàgines d’ajuda més habituals. 
 
 **L’àrea privada** és l’espai on administrar la instància pròpia de Cercles.Coop i, per tant, on crear els processos de participació, consultes o altres opcions de participació societària. Per accedir-hi, cal adreçar-se al menú d’usuari i a la part superior dreta hi ha l’entrada que dona accés al taulell d’administració. Es pot accedir a aquest taulell des del desplegable del menú personal, o bé clicant al botó **“Edita”** situat a la part superior dreta de la pàgina, tal i com es veu a la imatge següent:
+
+
+![](../.gitbook/assets/img1.png)
+
+
+Si és la primera vegada que accediu al taulell, caldrà acceptar els termes i condicions d’administració. Un cop acceptat, ja es visualitza el taulell d’administració i totes les opcions que permet Cercles.Coop i que s’ubiquen en el menú lateral esquerra. 
+
+
+{% hint style="warning" %}
+El rol d’administradora del sistema, dona capacitat per gestionar informació molt important, cal assegurar-se dues vegades abans de fer res.
+{% endhint %}
+
+
+En aquesta àrea privada (àrea d’administració) hi ha actius diversos mòduls i components que permeten definir els nostres espais i processos de participació, així com la configuració bàsica i avançada. 
+
+El tauler d’administració conté les opcions següents:
+* Processos: Mòdul per crear un espai o àmbit de participació
+* Assemblees: Mòdul per crear un espai o àmbit de participació
+* Consultes: Mòdul per crear un espai o àmbit de participació que requereix vot electrònic
+* Pàgines: Edició del contingut de la secció ajuda, política d’ús...
+* Participants: Gestió de la base social i de participació al Cercles.Coop
+* Butlletins: Eina de comunicació a les persones enregistrades
+* Configuració: Aspectes de configuració bàsica i avançada
+* Awesome: Personalització d’espais
+
+Vegem, a continuació, la diferència entre **mòduls** i **components**:
+
+***Mòduls***
+Són els espais de Participació o els àmbits on es desenvolupen i s’estableixen quins mecanismes s’habilitaran per participar. Les diferències entre ells es basen en la funcionalitat que tenen, la visualització que ofereixen i en si tenen la possibilitat d’establir fases. Hi ha tres mòduls per generar espais o àmbits de participació: Processos, Assemblees i Consultes. 
+
+***Components***
+Són els mecanismes que, dins els mòduls, ens permeten la participació dels socis i sòcies de la cooperativa i de la Federació. A cada Espai o àmbit de Participació es defineixen quins Components habilitar per a la participació. El significat i utilitat de cada Component s’explica detalladament més endavant. Existeixen onze tipus de Components:
+
+* Pàgina
+* Trobades
+* Propostes
+* Pressupostos
+* Enquestes
+* Seguiment 
+* Debats
+* Sortejos
+* Blog
+* Mapa global
+* Iframe en pantalla completa
+
+
+
+
+
+
