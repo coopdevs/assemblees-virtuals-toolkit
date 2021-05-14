@@ -104,6 +104,7 @@ de participació; també faciliten a les sòcies participants filtrar els contin
 * Àmbits: Les àrees organitzacionals de la cooperativa que podran vincular els pro-cessos participatius. 
 
 
+
 **Esquema dels espais de participació i components programables del Tauler d’Administració de Cercles.Coop:**
 
 
@@ -112,5 +113,34 @@ de participació; també faciliten a les sòcies participants filtrar els contin
 | PROCESSOS *(Elaboració i aprovació del Pla de Gestió)* | Pàgina, Trobades, Propostes, Pressupostos, Enquestes, Seguiment, Debats, Sortejos, Blog, Mapa global, Iframe en pantalla completa |
 | ASSEMBLEA *(Espai de treball d'òrgans societaris o de gestió: Consell Rector, Consell social...)*  | Pàgina, Trobades, Propostes, Pressupostos, Enquestes, Seguiment, Debats, Sortejos, Blog, Mapa global, Iframe en pantalla completa |
 | CONSULTA *(Qualsevol òrgan societari o de gestió que requereixi emissió de vot electrò-nic: Assemblea General, Sectorial, Branca de producció...)*  | Vot delegat a Participants |
+
+
+## 4. CONFIGURACIÓ BÀSICA: PÀGINES, APARENÇA, ÀMBITS
+
+Abans de començar a configurar els espais de participació estables o els processos que vulgueu dinamitzar amb Cercles.Coop, és necessari repassar la configuració bàsica de la plataforma. Vegem-les:
+
+
+## Pàgines
+
+Les Pàgines són les seccions d’ajuda predefinides que es mostren des del menú principal a través de l’opció de menú **Ajuda**, o bé al peu de pàgina. 
+
+
+![](../.gitbook/assets/img2.png)
+
+
+Des d’aquest apartat, doncs, es poden editar, esborrar o crear noves pàgines. La finalitat d’aquestes no només és informar sobre els termes d’ús, política de privacitat i accessibilitat sinó també per explicar a la base social, com a usuaris de la plataforma, quina funció té cada procés participatiu que obrim des de la Plataforma.
+
+Per defecte, tenim les **pàgines d’ajuda general** i les **pàgines sense tema**. Aquestes segones són les pàgines realment importants: són les que ens donen el marc legal per poder publicar continguts en la nostra plataforma. Per editar el contingut de pàgines existents cal clicant damunt de la icona llapis, tal i com es mostra a la imatge següent: 
+
+
+![](../.gitbook/assets/img3.png)
+
+
+Caldrà personalitzar la clàusula de protecció de dades amb la que treballarà la vostra cooperativa. Clicant [aquí](https://guia.cercles.coop/index-de-continguts-de-cercles.coop/posada-en-marxa#pagines-informatives) trobareu alguns models de plantilla.
+
+
+{% hint style="warning" %}
+Si la vostra instància de Cercles.Coop té més d’un **idioma** activat, cal parar atenció en l’idioma que s’està escrivint. A dalt a la dreta de cada capsa de text hi ha l’intercanviador d’idiomes. Caldrà revisar el text en cada un dels idiomes actius a la plataforma, si bé només és necessari completar el text en l’idioma predeterminat. Si es deixen els idiomes secundaris en blanc, es visualitzarà el contingut de  l’idioma principal.
+{% endhint %}
 
 
