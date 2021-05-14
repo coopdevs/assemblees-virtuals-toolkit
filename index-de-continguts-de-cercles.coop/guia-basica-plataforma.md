@@ -1,6 +1,6 @@
 # Guia bàsica de la Plataforma Cercles.Coop
 
-**Guia per a la posada en marxa de la instància pròpia a Cercles.Coop, generar i gestionar espais de participació societària i de gestió de les cooperatives**
+**Guia per a la posada en marxa de la instància pròpia a Cercles.Coop. Generar i configurar espais de participació societària i de gestió de les cooperatives**
 
 ## 1. INTRODUCCIÓ A LA PLATAFORMA
 
@@ -90,6 +90,27 @@ Són els mecanismes que, dins els mòduls, ens permeten la participació dels so
 
 
 
+Altres conceptes clau que cal conèixer per desenvolupar-se dins la plataforma, son:
 
+* Instància : Lloc web on s'instal·la la plataforma Cercles.Coop de l’entitat en qüestió. Cada cooperativa o Federació té la seva pròpia instància i és privada.
+* Administradores : Persones que poden configurar i administrar la instància des del taulell d’administració. Poden crear nous processos participatius, posar noves per-sones administradores...
+* Taulell d’administració: És l’espai del darrere de la plataforma (allò que no es veu), des d’on les administradores poden crear, configurar i gestionar les diferents possibi-litats del Cercles.Coop.
+* Usuàries verificades : Són aquelles sòcies registrades a la instància que han passat un procés de verificació. Això permet establir diferents permisos segons si s’és o no una participant verificada, com per exemple poder votar en una consulta.
+* Cens: És la base de dades sobre la qual es fan les verificacions. Es poden pujar des del taulell d’administració en format .csv
+* Permisos: A cada component o espai de participació es poden establir uns permi-sos. Determinant qui pot accedir o no en aquell espai de la instància, això permet crear espai privats.
+* Suports : Es poden donar suports a les propostes fetes. És a dir, es pot votar a favor d’aquella proposta.
+* Categories: Serveixen per classificar continguts en els diferents espais o processos
+de participació; també faciliten a les sòcies participants filtrar els continguts. 
+* Àmbits: Les àrees organitzacionals de la cooperativa que podran vincular els pro-cessos participatius. 
+
+
+**Esquema dels espais de participació i components programables del Tauler d’Administració de Cercles.Coop:**
+
+
+| ESPAIS DE PARTICIPACIÓ *(Exemple pràctic)* | COMPONENT PROGRAMABLE |
+| ------------- | ------------- |
+| PROCESSOS *(Elaboració i aprovació del Pla de Gestió)* | Pàgina, Trobades, Propostes, Pressupostos, Enquestes, Seguiment, Debats, Sortejos, Blog, Mapa global, Iframe en pantalla completa |
+| ASSEMBLEA *(Espai de treball d'òrgans societaris o de gestió: Consell Rector, Consell social...)*  | Pàgina, Trobades, Propostes, Pressupostos, Enquestes, Seguiment, Debats, Sortejos, Blog, Mapa global, Iframe en pantalla completa |
+| CONSULTA *(Qualsevol òrgan societari o de gestió que requereixi emissió de vot electrò-nic: Assemblea General, Sectorial, Branca de producció...)*  | Vot delegat a Participants |
 
 
