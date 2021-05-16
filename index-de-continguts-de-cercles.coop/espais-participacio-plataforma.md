@@ -1,4 +1,4 @@
-# 5. Guia per crear espais o àmbits de participació
+# 5. Guia per crear espais o àmbits de participació societària
 
 **Guia per a la posada en marxa de la instància pròpia a Cercles.Coop. Generar i configurar espais de participació societària i de gestió de les cooperatives**
 
@@ -212,3 +212,176 @@ Les persones amb rol de **col·laboradora** poden, a més de les accions de valo
 I les persones amb rol d’**administradora** tenen accés total a l’administració d’aquest espai. Poden afegir nous components, canviar el comportament dels existents... també poden accedir a l’apartat d’enviament de butlletins de la plataforma. Això si, només podran fer enviaments a les persones participants o seguidores de l’espai de participació del que en son responsables.
 
 Aquests rols tenen capacitat d’executar tasques d’administració i gestió de l’espai, assignem-los amb responsabilitat.
+
+
+### Els membres de l’espai de participació
+
+Finalment, hi ha una última secció on podem treballar amb les participants del nostre espai.
+
+Fins ara hem anat atorgant drets sobre el nostre espai a diferents persones: qui pot participar, qui pot gestionar-lo... però aquests rols no són visibles per a les sòcies, només hi podem accedir des de l’apartat d’administració.
+
+Si per política de transparència de la cooperativa voldrem publicar un llistat de les persones que formen part del nostre espai de treball, i oferir una via de contacte directe, Cercles.Coop  ens ofereix una manera específica per fer-ho. Adreceu-vos a l’apartat **Membres** del menú d’administració de l’**Assemblea**. Allà veureu el botó **Nou membre** que servirà per afegir nous membres a l’espai de participació.
+
+Fixeu-vos que aquest formulari us demana moltes més dades que en els casos anteriors.
+
+Primer de tot, haurem d’indicar si la persona que volem afegir com a membre és ja un participant de Cercles.Coop o no.
+
+Si hem indicat que és un participant existent, haurem d’indicar quin és el seu nom d’usuari. Si en canvi és una persona que no tenim enregistrada, haurem d’introduir el seu nom complet.
+
+Els participants que incorporem a través d’aquesta opció, habitualment seran les persones no sòcies però vinculades a la cooperativa i amb qui necessitem establir espais de participació i també les persones sòcies que no participen directament en òrgans societaris, com seria el cas, per exemple, dels socis que participen a través de delegats.
+
+
+{% hint style="info" %}
+Recomanem que els membres del nostre espai o òrgan de participació siguin usuaris existents, ja que ofereix la possibilitat de contactar amb aquests a través de la pròpia plataforma.
+{% endhint %}
+
+
+Caldrà indicar obligatòriament altres qüestions com: quin paper té en el nostre espai de participació (Presidència, vicepresidència, secretaria...) o la data de la seva inclusió en aquest espai. Les altres informacions són complementàries.
+
+Fixeu-vos en el camp **Pes** (potser el veuràs en anglès). Aquest camp ens permet definir l’ordre en que apareixeran les persones en la pàgina de membres. Si no indiquem cap ordre específic, aquestes s'ordenaran segons l’ordre pel qual les has anat introduint.
+
+
+![](../.gitbook/assets/img12.gif)
+
+
+
+Adreceu-vos a la pàgina pública de l’espai o òrgan creat, veureu que s’ha creat la pestanya Membres en el menú d’aquest espai. Allà veureu les dades de les persones membres.
+
+Tal i com haureu observat al submenú que es genera quan estem dins d’un espai o òrgan de participació concret, hi ha més opcions a banda de la gestió dels participants. Aquestes opcions són: **Components, Categories i Adjunts.**
+
+Si entrem dins l’opció de **components**, per defecte no en trobarem cap de generat. Per crear-ne un clicarem el botó blau de la part superior que diu **Afegeix un component**. A continuació, veureu que s’obre un desplegable que permet incorporar diverses accions, tal i com es mostra a la imatge següent:
+
+
+![](../.gitbook/assets/img13.png)
+
+
+## Components
+
+Els Components son els diferents mecanismes de participació que es poden habilitar als Espais o Àmbits de Participació dels mòduls, tant a Processos com a Assemblees, i cadascun d’ells permet participar d’una manera determinada.
+
+
+
+### Pàgina
+
+Aquest component permet genera un apartat explicatiu i descriptiu de totes les accions i  fases que prevegi l’espai de participació que hem creat: com participar, qui forma part d’aquest espai de participació, quin pla de treball té aquest espai de participació... Serveix perquè el soci com a usuari conegui que fa aquest espai i , si s’escau, saber com participar-hi. 
+
+Per afegir una pàgina, clicar **Pàgina** en el desplegable **Afegir Component**. S’han d’omplir els següents camps:
+
+* Nom: nom de la pàgina.
+* Pes: Correspon a l’ordre en què els components (en aquest cas la pàgina) es mostren en el menú d’usuari. Si el deixem a zero els elements s'ordenen seguint l'ordre de creació.
+* A Configuració global: si es vol mostrar un Avís a la Pàgina (missatge destacat), cal escriure el contingut del missatge.
+* A Configuració de fase, si es vol mostrar un Avís en la Pàgina (missatge destacat) durant l’execució d’una fase, escriure el contingut del missatge en la fase a la qual hauria de sortir.
+
+A continuació, clicar **Afegir component**.
+
+Per crear i editar els continguts de la Pàgina creada, en el submenú de l’esquerra del procés de participació, a Components, clicar sobre el nom de la pàgina que hem creat. S’obre la finestra **Editar pàgina**. Dins del quadre **Cos**, escriure el contingut de la pàgina. Un cop fet, cal clicar **Actualitzar** per desar els canvis. També es pot editar la pàgina o canviar la seva configuració des de la finestra Components, clicant les **icones corresponents** (Gestionar i Configurar). Així mateix, des d’aquesta finestra es pot Publicar, Despublicar o Eliminar la pàgina. 
+
+
+### Trobades
+
+Cercles.Coop  facilita espais on la participació sigui híbrida, és a dir, que les persones que no poden participar en una convocatòria presencial també pugui dir la seva en un espai en línia. Amb aquest objectiu, el component de **Trobades** ens ofereix molt més que la gestió de convocatòries. Ens permet alternar la presencialitat i la virtualitat o una d’aquestes opcions.
+
+Quan generem una **Trobada** haurem de repassar les opcions de configuració que se’ns demana. Recordeu que primer haurem de definir el comportament global i desprès detallar-ne el comportament per cada una de les fases del nostre procés.
+
+Fixa-vos en el camp **Pes**. El pes és la manera en què podem ordenar els elements del nostre menú del procés. Si el deixem a zero els elements s'ordenen seguint l'ordre de creació. Si volem alterar aquest ordre, canviem el pes: a pes més alt, l'element es situarà més a la dreta del menú d’usuari.
+
+Repassem l’apartat de la configuració global. El component de **Trobades** ens permet situar un fragment de text destacat a la part superior de la pàgina de trobades, el podem definir a l'apartat **Avís**. 
+
+També ens permet situar un text per a definir els **Termes** de registre per defecte. Si el definim en aquest apartat, no l'haurem d'introduir cada vegada que vulguem fer una inscripció a les nostres trobades.
+
+A continuació podem definir altres característiques de les trobades. Repasseu les opcions existents però tingueu present que les opcions marcades per defecte són les que ens poden servir en la majoria de casos.
+
+Potser us pot interessar marcar l’opció **Les participants poden crear trobades**, de manera que les pròpies persones membres d’aquest òrgan podran crear les convocatòries sense passar pel taulell d’administració.
+
+
+
+![](../.gitbook/assets/img14.gif)
+
+
+
+Un cop creada la Trobada a través de la configuració bàsica aquesta queda llistada a l’apartat **Components** i on podeu previsualitzar els components configurats prement sobre el **Nom del component corresponent** i a la dreta apareixen unes icones que permeten un seguit d’accions, tal i com es mostra a la imatge següent:
+
+
+
+![](../.gitbook/assets/img15.png)
+
+
+
+1.	Gestionar, a la icona del llapis; per afegir i gestionar les trobades.	
+2.	Publicar, a la icona del vist; podeu treballar sobre un component i no fer-lo visible al menú fins que ho decidiu.
+3.	Tornar a l’apartat de configuració, a la icona de l'engranatge.
+4.	Limitar la participació al cens de sòcies, a la icona de la clau.
+5.	Compartir el component (útil quan encara no l’heu fet públic).
+6.	Esborrar el component, fent servir la icona de l’aspa vermella.
+
+
+
+Quan publiqueu el component, la icona del vist es convertirà en la icona d'una creu, que farà la funció inversa i, per tant, per despublicar. Recordeu que per molt que publiqueu un component, si el procés sencer està despublicat les sòcies no hi tindran accés, ja que només l'estem habilitat dintre del menú de l’àrea d’administració.
+
+Les **trobades** poden ser *Privades*, només les sòcies amb permisos podran visualitzar i interactuar amb aquest, o bé *Privades Transparents*, només poden editar les sòcies participants privades però la trobada és pública i tothom pot veure la informació rela-cionada (seria útil per a reunions d’una comissió). També poden ser totalment públi-ques i obertes a totes les sòcies.
+
+
+#### Crea convocatòries
+Ara començarem a introduir trobades, clicant a la opció **Gestionar** (la icona del llapis).
+
+Clicant a Nova trobada s’obre un formulari amb els camps per crear una convocatòria. Ompliu els camps del formulari, tenint en compte que:
+
+* **Adreça** és el carrer, número i ciutat del lloc on es realitza la trobada, si es tracta d’una convocatòria presencial o bé un enllaç a una plataforma de videoconferència, si es tracta d’una convocatòria virtual.
+* **Ubicació** és el nom de l'equipament o lloc. Per exemple: seu social de la Cooperativa o bé el nom de la plataforma de videoconferència que utilitzem.
+* **Detalls de la ubicació** ens permetrà especificar indicacions per trobar el lloc de la trobada, com per exemple, Sala d'Actes.
+
+Podem indicar si una trobada és *privada*. Si marquem aquesta opció, només les persones que nosaltres convidem podran veure i apuntar-se a aquesta trobada. Si marquem la opció privada, se'ns habilita la opció *transparent*. Quan fem una trobada privada i transparent, tothom pot veure'n la convocatòria però només podran participar-hi les persones que nosaltres convidem.
+
+Si ja heu indicat que tot l’òrgan o espai de participació és privat i transparent no cal que torneu a configurar-ho a cada convocatòria.
+
+Podeu afegir, a cada trobada, una cartera de **Serveis** (com ludoteca, traducció per sords, servei de cangur, etc.) que oferiu a les sòcies. Aquests serveis actuen a títol informatiu i ocuparan un espai ben visible un cop la trobada estigui publicada.
+
+Omplerta la informació i les dades generals bàsiques, podeu crear la vostra primera trobada clicant el botó **Crea** situat al final de la pàgina.
+
+Un cop creada, podreu realitzar un seguit d'accions relacionades amb aquesta. Les repassem ràpidament, seguint ordre d'esquerra – dreta, més endavant veurem amb detall les que puguin ser més interessants.
+
+*	**Previsualitzar**, la icona del ull – ens permet veure com es visualitzarà la informació introduïda a la part d’usuari sense haver publicat el component.
+* **Duplicar**, a la icona del porta-retalls. Ens permet realitzar una còpia d'una trobada. Molt útil si hem de realitzar trobades de manera recurrent. Recordeu canviar la data de la de la nova trobada!
+* **Editar**, la icona del llapis. Per modificar la informació introduïda o afegir nous serveis.
+* **Inscripcions**, la icona de les dues persones. Per habilitat i gestionar el registre a la trobada.
+* La icona del rellotge ens permetrà publicar l'**acta** de la trobada, ja sigui en format text, vídeo o àudio.
+* La icona de l'agenda ens permet elaborar i publicar un **ordre del dia** de la sessió.
+* L'acció **tancar**, a la icona del cadenat, ens permet realitzar un tancament tècnic de la trobada, introduint una valoració qualitativa, l'informe, com una valoració més quantitativa, recontant les persones participants. En el cas que s'hagin produït propostes, podem vincular-les també aquí.
+* Les dues següents accions ens permeten adjuntar documentació a una trobada. Podem publicar documentació fent servir la icona del **clip**. En el cas que tinguem molta documentació per compartir, podem organitzar-la fent servir les carpetes.
+* Si hem activat la opció de **permetre establir permisos d'accions** per cada trobada, veurem la icona de la clau, i limitant les inscripcions a les trobades a les persones in-corporades a través del [cens de socis](https://guia.cercles.coop/index-de-continguts-de-cercles.coop/posada-en-marxa#importacio-del-cens-virtual-de-socis) i establint diversos graus de verificació i au-tentificació de persones: per verificació directa (registre per correu electrònic) i  per **Codi per SMS**.
+* I finalment, la creu vermella ens permetrà eliminar una trobada.
+
+
+### Inscripcions
+
+Per a convocatòries públiques ens pot interessar crear un registre d’**inscripcions**. Si és així, adreceu-vos a la icona de les dues persones, a dreta de  la trobada creada. S'obrirà una nova finestra.
+Primer, haureu d'activar la casella Inscripcions obertes i podreu definir els elements bàsics de la trobada:
+
+* Espais disponibles per aquesta trobada, és a dir, quantes persones com a màxim podran assistir.
+* Amb la opció següent, podeu determinar de la capacitat de l’espai indicada anteriorment, quantes places voleu reservar (places que sabeu que estaran ocupades per a persones que no cal que facin el registre).
+
+Si al configurar el component **Trobades** heu definit el text de **Termes de registre**, ja no serà necessari que ho torneu a introduir, tot i que podreu modificar-lo si és necessari, afegint, per exemple, una clàusula específica o si tens previst treballar amb un col·lectiu especialment protegit per la Regulació General de Protecció de Dades.
+
+Deseu aquesta primera configuració i ja tindreu habilitades les inscripcions: Comproveu-ho clicant a l'acció de **Previsualització**.
+
+D'aquesta manera, es podrà inscriure a la nostra convocatòria qualsevol persona que tinguem enregistrada al Cercles.Coop. Al clicar sobre el botó **Inscriu-te a la trobada**, qui estigui fent la inscripció rebrà a la seva adreça electrònica un correu amb un codi de registre a la trobada.
+
+Podrem descarregar un llistat de persones inscrites, obrint de nou l’apartat de gestió d'inscripcions. Fixeu-vos que a la part superior dreta hi ha un botó amb la opció **Exporta**, on podreu descarregar el llistat de persones inscrites. Aquest llistat té, per defecte, el codi de registre que han rebut els inscrits per correu electrònic, el seu nom d'usuari i el seu correu electrònic.
+
+És possible que necessiteu recollir més dades en les inscripcions. En aquesta mateixa pàgina trobareu el botó **Formularis d'inscripció**, si el cliqueu podreu crear un formulari amb les preguntes específiques que vulgueu incloure. Si heu fet servir el component Enquestes abans, veureu que el seu funcionament és molt similar.
+
+Un cop hagueu creat les diferents preguntes, premeu **Desa** el formulari i recordeu activar-lo a la pàgina principal de les inscripcions, marcant la casella **Formulari d'inscripcions habilitat**.
+
+Com veureu, també hi ha un botó que diu **Invitacions**. Amb aquesta opció podeu convidar directament a persones que considereu incorporant el seu nom i adreça electrònica.
+
+
+### Al finalitzar la trobada
+
+Un cop realitzada una trobada, és una bona pràctica donar-hi tancament. Fixeu-vos amb la icona d'acció **Tancar**, representada per un cadenat. En aquest apartat podreu realitzar un breu Informe de la sessió, així com llistar les persones que han participat i indicar el nombre d'assistents.
+
+Si heu començat a treballar propostes, podeu indicar també el nombre de contribucions que s'han fet i vincular aquí les propostes realitzades.
+
+És recomanable eliminar les dades personals que hem extret de les inscripcions a les trobades en el moment que tanquem la Trobada. En tot cas, les dades personals recollides a efectes de gestió de Trobades, s’han de destruir o eliminar en un període màxim de 3 mesos. 
+
+
+
