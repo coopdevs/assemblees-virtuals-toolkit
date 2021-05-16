@@ -457,3 +457,42 @@ També caldrà determinar el “Límit de propostes per usuari” i fixar-ho en 
 * Resultats: Les administradores poden veure des del taulell d’administració quants su-ports acumula cada proposta i en quina posició estan respecte la resta. Les administrado-res poden donar resposta a cada proposta, les opcions de resposta son: “ Acceptada” , “Rebutjada” o “En Avaluació” . En aquest cas, les administradores marcaran com a “Ac-ceptada” les 10 candidatures més votades. Els resultats es publicaran immediatament després d’enviar cada resposta si l’opció de “Publicar resultats immediatament” esta activada. | 
 
 
+### Pressupostos
+
+Per configurar el component de pressupostos participatius, en el submenú Processos o Assemblees, clicar Components, clicar Afegir component en la part superior dreta de la finestra i seleccionar Pressupostos. S’han d’omplir els camps:
+* Nom.
+* Pes: Correspon a l’ordre en què volem que es mostri el component en el menú de procés.
+* A Configuració global:
+ * Àmbits: Valoreu si habiliteu els àmbits i, en aquest cas, seleccioneu l’Àmbit corresponent del desplegable.
+ * Indiqueu si es permet votar a tots els pressupostos o només a un.
+ * Indiqueu el nombre de projectes per pàgina.
+ * Activar norma: bé per percentatge mínim del pressupost, bé per número mínim de projectes a votar.
+ * Habilitar o no comentaris i indicar la longitud màxima dels comentaris.
+ * Indiqueu si voleu establir permisos d’accions per a cada trobada.
+ * Avís: escriure si es vol mostrar un avís.
+ * Pàgina d’inici de pressupostos: explicació sobre el què es trobaran els socis quan entrin a valorar i votar els pressupostos actius.
+ * Finestra de “Més informació”: descriure informació addicional d’interès pels socis en aquest procés participatiu.
+* A Configuració de fase, per cada fase (presentació, definició, priorització) marcar les opcions oportunes:
+ * Comentaris bloquejats: marcar si no s’han de poder fer comentaris.
+ * Votació: inhabilitada, habilitada, finalitzada.
+ * Suports habilitats: Es permeten recollir suports (vots) als projectes.
+ * Mostra vots: Es mostra el nombre de vegades que un projecte ha estat seleccionat.
+ * Avís: escriure si es vol mostrar un avís en alguna fase.
+ * Pàgina d’inici de pressupostos: explicació sobre el què es trobaran els socis quan entrin a valorar i votar els pressupostos actius.
+ * Finestra de “Més informació”: descriure informació addicional d’interès pels socis en aquest procés participatiu.
+
+Per finalitzar, clicar **Afegir un component**.
+
+Un cop configurat el component pressupostos, s’han de crear els projectes que aniran a votació. En el submenú de Processos o Assemblees, a Component, seleccionar el component  Pressupost que acabem de generar clicar la icona llapis. A continuació cliquem Nou Pressupost. S’obre la finestra Nou resultat. 
+
+Els camps que surten a la fitxa són els següents:
+* Títol
+* Pes
+* Descripció
+* Pressupost total: indicar l’import
+
+Per editar el projecte concret objecte de votació, en el submenú Processos o Assemblees, a Components seleccionar el Pressupost concret. S’obre la finestra Projectes. Clicar les icones corresponents: Previsualitzar per veure com quedarà, Editar, Adjunts per afegir documents o Esborrar. Des d’aquesta finestra també es poden veure els suports que han rebut els diferents projectes: Nombre de vots i els vots totals (Vots finalitzats i Vots en procés, és a dir, que el soci ha començat a votar però encara no ha emès el vot).
+
+A més de crear els projectes cal especificar qui podrà donar suport als projectes. En el submenú, clicar **Components** i clicar la icona **Permisos** del pressupost que hem creat. S’obre la finestra **Permisos d'edició** i limitant la participació a les persones incorporades a través del cens de socis i establint diversos graus de verificació i autentificació de persones: per verificació directa (registre per correu electrònic) i  per Codi per SMS.
+
+
