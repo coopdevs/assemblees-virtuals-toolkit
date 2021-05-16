@@ -6,7 +6,7 @@ Anteriorment, a la [Guia de configuració bàsica de la Plataforma de votació](
 
 ## TIPUS D'ESPAIS O ÀMBITS DE PARTICIPACIÓ
 
-### PROCESSOS
+### Processos
 
 A través d’aquest mòdul es poden crear i editar espais de participació definint canals de comunicació, normes de funcionament i ritmes de participació. Com per exemple: demanar a la nostra base social que col·labori a definir o prioritzar alguns aspectes de la política de la cooperativa. 
 
@@ -27,7 +27,7 @@ Els Processos Participatius poden tenir diferents Components. Cada fase tindrà 
  
  
  
- ### ASSEMBLEES
+ ### Assemblees
  
  
  {% hint style="danger" %}
@@ -78,7 +78,7 @@ Informació i control d’assistència: Mitjançant un Component de “Trobades�
 
 
 
-### CONSULTES
+### Consultes
 
 El mòdul Consultes és el mecanisme que ens ofereix Cercles.Coop per vehicular les votacions electròniques a preguntes concretes. És a partir d’on organitzem les votacions a les d’Assemblees Generals o altres reunions societàries i on recollim els vots electrònics amb les garanties necessàries. 
 
@@ -255,7 +255,7 @@ Si entrem dins l’opció de **components**, per defecte no en trobarem cap de g
 ![](../.gitbook/assets/img13.png)
 
 
-## Components
+## COMPONENTS
 
 Els Components son els diferents mecanismes de participació que es poden habilitar als Espais o Àmbits de Participació dels mòduls, tant a Processos com a Assemblees, i cadascun d’ells permet participar d’una manera determinada.
 
@@ -352,7 +352,7 @@ Un cop creada, podreu realitzar un seguit d'accions relacionades amb aquesta. Le
 * I finalment, la creu vermella ens permetrà eliminar una trobada.
 
 
-### Inscripcions
+#### Inscripcions
 
 Per a convocatòries públiques ens pot interessar crear un registre d’**inscripcions**. Si és així, adreceu-vos a la icona de les dues persones, a dreta de  la trobada creada. S'obrirà una nova finestra.
 Primer, haureu d'activar la casella Inscripcions obertes i podreu definir els elements bàsics de la trobada:
@@ -375,7 +375,7 @@ Un cop hagueu creat les diferents preguntes, premeu **Desa** el formulari i reco
 Com veureu, també hi ha un botó que diu **Invitacions**. Amb aquesta opció podeu convidar directament a persones que considereu incorporant el seu nom i adreça electrònica.
 
 
-### Al finalitzar la trobada
+#### Al finalitzar la trobada
 
 Un cop realitzada una trobada, és una bona pràctica donar-hi tancament. Fixeu-vos amb la icona d'acció **Tancar**, representada per un cadenat. En aquest apartat podreu realitzar un breu Informe de la sessió, així com llistar les persones que han participat i indicar el nombre d'assistents.
 
@@ -397,7 +397,7 @@ Dins Cercles.Coop, al mòdul Assemblea, tenim una assemblea mare creada que té 
 
 
 
-## Propostes
+### Propostes
 
 Les Propostes son l’eina a través de la qual poder recollir propostes escrites de les sòcies. Aquest és un Component molt versàtil que té diverses utilitats i funcions. Pot servir per debatre sobre un text base i fer-hi esmenes utilitzant els “Textos participatius ”. Una altra possibilitat és usar-ho per a presentar i votar candidatures de persones que volen formar part d’una comissió o del Consell Rector. Tanmateix, hi ha l’opció de fer servir l’eina de Propostes per recollir idees sobre com fer un determinat projecte o activitat i després votar la millor proposta.
 
