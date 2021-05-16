@@ -8,7 +8,7 @@
 * [2. Necessitats tècniques per organitzar i celebrar reunions virtuals](index-de-continguts-de-cercles.coop/necessitats-tecniques-per-organitzar-i-celebrar-reunions-virtuals.md)
 * [3. Guia de configuració bàsica de la Plataforma de votació](index-de-continguts-de-cercles.coop/guia-basica-plataforma.md)
 * [4. Manual per crear una reunió societària virtual (vot electrònic)](index-de-continguts-de-cercles.coop/posada-en-marxa.md)
-* [5. Manual per crear espais o àmbits de participació societària](index-de-continguts-de-cercles.coop/espais-participacio-plataforma.md) 
+
 
 
 ## Emissió de vídeo en directe <a id="video-de-la-assemblea"></a>
