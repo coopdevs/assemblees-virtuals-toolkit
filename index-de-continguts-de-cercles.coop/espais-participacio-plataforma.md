@@ -385,3 +385,48 @@ Si heu començat a treballar propostes, podeu indicar també el nombre de contri
 
 
 
+| **Exemple pràctic 1: Assemblees preparatòries** |
+| ------------- |
+| Cada any el Consell Rector de la cooperativa, d’acord amb el que regulen els propis estatuts socials, desenvolupa Assemblees preparatòries o de secció arreu del territori on té sòcies desplegades. En concret, s’organitzaran assemblees preparatòries a Reus, Móra d’Ebre, Igualada, Olot, Mataró i Cassà de la Selva.
+Aquestes Assemblees preparatòries (component Trobades) serveixen per preparar l’Assemblea General, designar els socis delegats que representaran a les sòcies del territori a l’Assemblea General, entre d’altres assumptes societaris.
+Dins Cercles.Coop, al mòdul Assemblea, tenim una assemblea mare creada que té per nom Òrgans Societaris i una de les assemblees filles és la d’Assemblees preparatòries. Es crea un component Trobades que porta el nom de Assemblees Preparatòries 2021. Al crear-la es poden establir algunes configuracions que afectaran a totes les Trobades que s’incloguin dins d’Assemblees Preparatòries 2021. Es poden habilitar els comentaris, la creació de pads col·laboratius i establir permisos (qui pot editar informació). Un cop configurat es creen i publiquen les 6 reunions informatives que es faran al llarg de, per exemple, dos mesos. Això es fa a través de “Nova Trobada” , on es poden fer les següents configuracions:
+* Data i lloc: Al crear la Trobada cal establir una data i un lloc concret on es realitzarà. El lloc pot ser un espai físic presencial com un enllaç a videoconferència per fer la trobada virtual, també pot ser híbrida. Al introduir l’adreça, el Cercles.Coop busca les coordenades i es publicarà un mapa interactiu on poder veure la ubicació de la Trobada.
+* Inscripcions: Quan es configura la Trobada es pot habilitar l’opció “Inscripcions Obertes” que permet establir un nombre màxim de persones que poden assistir i si s’escau un formulari d’inscripció. D’aquesta manera es pot preveure l’assistència que hi haurà a una reunió.
+* Acta i ordre del dia: Cercles.Coop permet crear un Ordre del dia amb apartats i subapartats, i una explicació per a cadascun d’ells si és convenient. Un cop s’ha realitzat la reunió permet penjar l’acta per a que tothom pugui conèixer que s’ha parlat en la trobada.
+* Documents: En la configuració de cada Trobada es poden crear “Adjunts” per penjar-hi arxius importants per a la reunió que es poden agrupar en “Carpetes” .|
+
+
+
+## Propostes
+
+Les Propostes son l’eina a través de la qual poder recollir propostes escrites de les sòcies. Aquest és un Component molt versàtil que té diverses utilitats i funcions. Pot servir per debatre sobre un text base i fer-hi esmenes utilitzant els “Textos participatius ”. Una altra possibilitat és usar-ho per a presentar i votar candidatures de persones que volen formar part d’una comissió o del Consell Rector. Tanmateix, hi ha l’opció de fer servir l’eina de Propostes per recollir idees sobre com fer un determinat projecte o activitat i després votar la millor proposta.
+
+Existeixen diferents opcions per fer les propostes:
+* Textos participatius: Es penja un document base fragmentat per articles sobre el que es poden fer comentaris i esmenes a parts concretes del text.
+* Propostes oficials: El perfil “oficial” de la cooperativa és qui emet les propostes, les sòcies poden comentar-les i si s’escau votar-les
+* Propostes d’usuàries: Les sòcies poden afegir “Noves Propostes” seguint el formulari prèviament configurat. Poden conviure propostes oficials i de sòcies en un mateix Component de Propostes.
+
+Per configurar el component **Propostes**, en el submenú de Processos o Assemblees, clicar Components, a continuació clicar Afegir Component a la part superior dreta de la finestra i seleccionar Propostes. 
+
+La informació que cal escriure quan es configura la funcionalitat propostes és:
+
+* Nom
+* Pes: l’ordre en què s’ha de mostrar el component Propostes en el menú del procés participatiu.
+* Configuració global:
+ * Límit de vot: Seleccionar, si s’escau, el límit de suports que pot donar un usuari.
+ * Marcar les opcions que es desitja activar per la configuració general del component Propostes: Resposta oficial a propostes activades, Propostes oficials habilitades, Comentaris habilitats, Geocodificació habilitada, Permetre arxius adjunts.
+ * Avís: escriure si es vol mostrar un avís quan el soci estigui realitzant una proposta.
+ * Text d'ajuda al crear una nova proposta: escriure si es vol mostrar.
+* Configuració de fase:
+ * Marcar les opcions que es volen activar per a cadascuna de les fases: Suports habilitats, Suports bloquejats, Vots ocults (si els vots estan habilitats, marcant aquesta opció s’amaga el nombre de vots), Comentaris bloquejats, Habilitar de creació de propostes, Resposta oficial a propostes activades.
+ * Avís: escriure si es desitja mostrar un avís quan el soci estigui realitzant una proposta.
+
+Per acabar, clicar **Afegir component**.
+
+Per a la gestió de les propostes, és a dir acceptar o rebutjar les propostes que han fet els participants durant el procés, clicar Propostes en el submenú del procés. S’obre la finestra Propostes, on hi ha el llistat amb totes les propostes i per a cadascuna una sèrie d’informació (Títol, Categoria, Àmbit, Estat, és a dir si està Acceptada, Rebutjada, No resposta), i les possibles Accions (Respondre i Previsualitzar).
+
+Per respondre les propostes, clicar la icona Resposta, s’obre la finestra Respondre a la Proposta, en què s’ha de marcar Acceptada o Rebutjada i escriure el motiu o la resposta que es vol donar en el quadre Resposta.
+
+També es poden exportar les propostes i/o els comentaris en els formats CSV o JSON,  clicant Exporta en la part superior dreta.
+
+Per crear una nova proposta, és a dir, fer propostes oficials, clicar Nova a la part superior dreta de la finestra Propostes, s’obre la finestra Crear Proposta, en la que cal posar: Títol, Cos (descripció) i seleccionar si s’escau la Categoria en el desplegable. A continuació clicar Crear.
