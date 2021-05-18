@@ -567,9 +567,12 @@ Aquest component permet fer un seguiment de resultats i, per tant, permet realit
 El component de seguiment permet a les sòcies visualitzar el nivell d'execució (Global, per categories i / o subcategories) dels resultats i dels projectes. Els resultats, projectes i estats es poden actualitzar mitjançant un CVS o manualment al tauler d'administració.
 
 
-### Sondejos
-
 ### Blog
+
+El bloc és un component que permet crear i visualitzar notícies en ordre cronològic. Les entrades d'un bloc són un altre tipus de contingut, han d'estar associades a un espai de participació. Les entrades del bloc estan relacionades amb el sistema de classificació de continguts de la plataforma. Els comentaris associats a les entrades del bloc seran tractats com la resta de comentaris de la plataforma.
+
+
+### Sondejos
 
 ### Mapa global
 
