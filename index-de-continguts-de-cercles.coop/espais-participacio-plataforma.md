@@ -555,4 +555,16 @@ Per obtenir la informació recollida, clicant la icona llapis trobem el botó ex
 
 
 
+### Debats
+
+Els Debats permeten la *creació d’un espai de discussió virtual* on sospesar arguments a favor i en contra d’un tema concret. L’habilitació del Component permet configurar si totes les sòcies podran iniciar Debats o només podran fer-ho les administradores
+amb permisos. Els Debats permeten preguntar l’opinió a les seves sòcies per saber què en pensa la base sobre aquell tema.
+
+
+### Seguiment
+### Sondejos
+### Blog
+### Mapa global
+### Iframe en pantalla completa
+
 
