@@ -1,6 +1,6 @@
-# 5. Guia per crear espais o àmbits de participació societària
+# 5. Manual per crear espais o àmbits de participació societària
 
-**Guia per a la posada en marxa de la instància pròpia a Cercles.Coop. Generar i configurar espais de participació societària i de gestió de les cooperatives**
+**Manual per a la posada en marxa de la instància pròpia a Cercles.Coop. Generar i configurar espais de participació societària i de gestió de les cooperatives**
 
 Anteriorment, a la [Guia de configuració bàsica de la Plataforma de votació](https://guia.cercles.coop/index-de-continguts-de-cercles.coop/guia-basica-plataforma) s'ha descrit els diversos tipus de mòduls que permeten generar, configurar i gestionar espais de participació. A continuació, es descriuen més àmpliament i s'han inclòs exemples pràctiques per facilitar la comprensió de les funcionalitats.
 
