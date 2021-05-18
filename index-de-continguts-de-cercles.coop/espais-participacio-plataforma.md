@@ -562,9 +562,17 @@ amb permisos. Els Debats permeten preguntar l’opinió a les seves sòcies per 
 
 
 ### Seguiment
+
+Aquest component permet fer un seguiment de resultats i, per tant, permet realitzar la conversió de resultats a projectes o permet descompondre'ls en projectes o subprojectes. Cada un d'aquests projectes es poden descriure en més detall i permet definir l'estat d'execució, en trams que van des de 0% d'execució a el 100%. 
+El component de seguiment permet a les sòcies visualitzar el nivell d'execució (Global, per categories i / o subcategories) dels resultats i dels projectes. Els resultats, projectes i estats es poden actualitzar mitjançant un CVS o manualment al tauler d'administració.
+
+
 ### Sondejos
+
 ### Blog
+
 ### Mapa global
+
 ### Iframe en pantalla completa
 
 
