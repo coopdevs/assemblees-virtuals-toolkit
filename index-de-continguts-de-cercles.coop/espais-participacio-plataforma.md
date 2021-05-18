@@ -509,5 +509,50 @@ Es crea un Procés Participatiu amb el nom de Amb què invertim?. Es configurara
 
 
 
+### Enquesta
+
+Les enquestes son l’eina per preguntar i conèixer l’opinió de les sòcies sobre diferents temes. Poden servir per veure com estan els ànims entre les sòcies per tirar endavant un projecte o per valorar un nou producte que hagi comercialitzat la cooperativa. Els resultats de les enquestes, a diferència de les Consultes, no es publiquen automàti-cament al Cercles.Coop, sinó que son dades que gestionen les administradores del procés. 
+
+Per crear, configurar i habilitar una enquesta, seleccionarem l’opció Enquestes del desplegable de l’apartat Components, ja estiguem dins el mòdul Processos o dins el mòdul Assemblees. 
+
+S’obre una pàgina formulari on podem configurar l’Enquesta. Les dades que ens de-manen són:
+* Nom: nom de l’enquesta
+* Pes: 
+* Configuració global:
+ * Àmbits habilitats
+ * Avís: informació general del perquè de l’enquesta, aquest text es visua-litza a l’àrea pública abans de respondre.
+* Configuració de fase:
+ * Preparació
+ * Enquesta
+ * Debat
+ * Retorn
+
+On detallarem en quina fase del nostre procés ens interessa tenir l’enquesta activa i per això configurarem la fase en concret i determinarem qui pot res-pondre:
+
+Un cop hem revistat  el comportament de l’Enquesta cliquem el botó **Afegeix un component**.
+
+Retornem a l’apartat **Component** on trobarem el que acabem d’afegir. Fixeu-vos amb les icones de l’esquerra: son les accions que ens permetran gestionar-ho. 
+
+La **icona llapis** ens serveix per crear i editar contingut, és a dir les preguntes de l’enquesta, descripció i termes i condicions d’ús.
+Quan afegim una pregunta es desplega un nou apartat on hem de detallar la pregunta que ferm i, si escau, un breu text d’ajuda. Podem escollir també si la pregunta és de resposta obligatòria.  A continuació definirem el tipus de resposta que busquem:
+* Resposta curta: Escrita amb limitació d’extensió.
+* Resposta llarga: Escrita sense limitació, amb l’objectiu de buscar explicacions profundes a les respostes.
+* Opció única: Es donen diferents opcions de resposta i només es pot marcar una.
+* Opció múltiple: Es donen diferents opcions de resposta i es pot marcar més d’una.
+* Ordenació: S’ordenen numèricament les preferències. 
+* Matriu opció única: Per cobrir múltiples característiques o subtemes amb opció de resposta única.
+* Matriu opció múltiple: Per cobrir múltiples característiques o subtemes amb opció de resposta múltiple.
+
+Sempre que l’enquesta no estigui activa i, per tant, no s’hagi respost, es podrà modifi-car les preguntes i opcions de resposta. 
+
+Si visualitzem l’enquesta a l’àrea pública veurem que no apareix. Perquè aparegui, haurem de clicar la **icona vist** que serveix per publicar el component un cop estigui llest. Així mateix, es pot publicar i despublicar quan ho necessitem.
+
+La **icona engranatge** permet tornar a obrir la pàgina de configuració del component, global i fases. 
+La **icona clau** ens permet delimitar la participació
+La **icona aspa vermella** serveis per eliminar un component, sempre que estigui buit de contingut. 
+
+Per obtenir la informació recollida, clicant la icona llapis trobem el botó exporta on es pot seleccionar diferents formats per descarregar les dades.
+
+
 
 
